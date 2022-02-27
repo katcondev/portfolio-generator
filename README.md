@@ -3,7 +3,7 @@
 
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 ## Description
-This is a CLI application that generates a nice starting portfolio for people that are in a rush and don't have time. 
+A CLI application that generates a nice starting portfolio for people that are in a rush and don't have time. 
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
